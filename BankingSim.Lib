@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSim.Lib", "C:\Users\U305\Desktop\BankingSim.Lib\BankingSim.Lib\BankingSim.Lib.csproj", "{98475CBC-5D5F-AF87-2CD2-32A7F8AC0F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "C:\Users\U305\Desktop\BankingSim.Lib\Tests\Tests.csproj", "{0F1B50BE-BFFB-46BA-AD99-7F89872E2DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98475CBC-5D5F-AF87-2CD2-32A7F8AC0F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98475CBC-5D5F-AF87-2CD2-32A7F8AC0F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98475CBC-5D5F-AF87-2CD2-32A7F8AC0F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98475CBC-5D5F-AF87-2CD2-32A7F8AC0F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1B50BE-BFFB-46BA-AD99-7F89872E2DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1B50BE-BFFB-46BA-AD99-7F89872E2DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1B50BE-BFFB-46BA-AD99-7F89872E2DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1B50BE-BFFB-46BA-AD99-7F89872E2DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBFB0ABC-2F08-4655-A3F3-A1DFD886CBC4}
+	EndGlobalSection
+EndGlobal
